@@ -1,0 +1,1 @@
+python C:\Users\Admin\koodausHarjoituksia\Python\moto\moto.py
